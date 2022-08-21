@@ -214,7 +214,6 @@ namespace Homework1_2_6
                                 Console.WriteLine("Такой команды нет");
                                 Console.ReadKey();
                                 break;
-
                         }
 
                         break;
